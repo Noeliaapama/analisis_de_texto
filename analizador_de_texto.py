@@ -41,3 +41,4 @@ dic = {True: "si", False: "no"}
 print(f"La palabra 'python' {dic[buscar_python]} se encuentra en el texto")
 
 
+
